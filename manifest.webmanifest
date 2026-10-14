@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "Flutter Freelance Mastery — 32 Weeks",
+  "short_name": "Flutter Mastery",
+  "description": "224-day Flutter to freelance interactive plan with lessons, labs, progress and prompts",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b101a",
+  "theme_color": "#0b101a",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
